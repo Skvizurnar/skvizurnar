@@ -1,7 +1,11 @@
 
+<<<<<<< HEAD
 
 Jón Oddur og Jón Bjarni
 
+=======
+Jón Oddur og Jón Bjarni
+>>>>>>> a11406caa02af2da49879ffb7094e0ab71b40344
 The Awesome Movie
 Pulp Fiction
 Leon
