@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
@@ -8,6 +9,9 @@ Jón Oddur og Jón Bjarni
 =======
 HEAD
 HEAD
+=======
+
+>>>>>>> fb2402b761d349882806e8772f3084c76315da6a
 Th haaaae Movie
 >>>>>>> ef495b2083cd97ee7179e0ee72322ee6dfb65690
 Jón Oddur og Jón Bjarni
