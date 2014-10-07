@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 Th haaaae Movie
+=======
+The Awesome Movie
+>>>>>>> da8b4c4d460c650795419460346013126f91317a
 Pulp Fiction
 Leon
 Girl next door
