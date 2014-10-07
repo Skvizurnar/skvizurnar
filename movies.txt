@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
 Jón Oddur og Jón Bjarni
 
 =======
+=======
+HEAD
+HEAD
+Th haaaae Movie
+>>>>>>> ef495b2083cd97ee7179e0ee72322ee6dfb65690
 Jón Oddur og Jón Bjarni
 >>>>>>> a11406caa02af2da49879ffb7094e0ab71b40344
 The Awesome Movie
